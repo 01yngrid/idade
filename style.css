@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    /* background-image: url("https://img.freepik.com/fotos-gratis/vista-frontal-de-copos-de-cerveja-com-trigo_23-2148755010.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    
+    
+}
+
+
+p{
+    margin-top: 30px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 30%;
+    box-shadow: 5px 5px 15px;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+}   

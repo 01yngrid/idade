@@ -1,0 +1,25 @@
+*{ 
+    margin: 0;
+
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1479800728/pt/foto/group-of-friends-drinking-and-toasting-glass-of-beer-at-brewery-pub-restaurant-happy.jpg?s=612x612&w=0&k=20&c=embYXF1WFZ5WoKybPds8QQfmD1uMTVNe8WiZIWYdtto= ");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+h1{
+    /* background-color: azure; */
+    /* width: 20px; */
+    text-align: center;
+    padding: 90px;
+    height: auto;
+    border-radius: 90%;
+    /* box-shadow: 0px 5px 15px; */
+    /* max-width: 100%; */
+    
+}
+
+.formulario{
+    text-align: center;
+    box-shadow: 5px 5px 15px;
+}
